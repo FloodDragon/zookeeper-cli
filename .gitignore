@@ -32,6 +32,6 @@ local.properties
 
 # idea
 .idea/
-zookeeper-web.iml
-zookeeper-web.ipr
-zookeeper-web.iws
+zookeeper-cli.iml
+zookeeper-cli.ipr
+zookeeper-cli.iws
