@@ -2,5 +2,5 @@
 
 ------
 
-  [1]: http://localhost:8080/zookeeper-web
+  [1]: http://localhost:8080/zookeeper-cli
   [2]: ./doc/img/index.jpg

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Zookeeper-Web</title>
+		<title>Zookeeper-Cli</title>
 		<script src="${host}/js/jquery.min.js" type="text/javascript"></script>
 		<link href="${host}/css/bootstrap.min.css" rel="stylesheet" type="text/css">
 		<link href="${host}/css/zk-web.css" rel="stylesheet" type="text/css">
